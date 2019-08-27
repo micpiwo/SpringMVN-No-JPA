@@ -1,0 +1,11 @@
+body{
+    background-image: url('../img/1.jpeg');
+    background-size: cover;
+    
+}
+body, img{
+
+}
+.form-img{
+    width: 10%;
+}
